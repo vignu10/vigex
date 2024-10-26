@@ -59,6 +59,7 @@ export default function TransactionDataTable() {
           <Doughnut data={finalData} options={options} />
         </div>
       </div>
+      <div>Recent Transactions</div>
     </>
   );
 }
