@@ -1,5 +1,5 @@
 import NavBar from "@/app/ui-components/NavBar";
-import TransactionDataTable from "@/app/components/TransactionDataTable";
+import TransactionDataTable from "@/components/core/TransactionDataTable";
 
 export default function DashBoard() {
   return (

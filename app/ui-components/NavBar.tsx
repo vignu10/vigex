@@ -1,5 +1,6 @@
+import React from "react";
 
-export default function DashBoard(props) {
+export default function DashBoard() {
   return (
     <>
       <nav className="bg-[#003135] h-20 w-full mb-4 flex rounded-[10px] ">
