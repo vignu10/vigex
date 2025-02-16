@@ -1,0 +1,5 @@
+{
+  "watch": ["server", "proto", "prisma"],
+  "ext": "ts",
+  "exec": "npx ts-node server/server.ts"
+}
